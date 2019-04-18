@@ -6,7 +6,7 @@
     android:layout_height="match_parent">
 
     <Button
-        android:id="@+id/button_20"
+        android:id="@+id/C"
         android:text="button 20"
         android:layout_gravity="left|top"
         app:layout_widthPercent="50%"
